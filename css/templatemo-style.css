@@ -550,6 +550,7 @@ http://www.templatemo.com/tm-515-eatery
 
   #menu .container {
     width: 100%;
+    height:100%;
   }
 
   #menu .col-md-4 {
@@ -559,6 +560,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .menu-thumb img {
     width: 100%;
+    height: 58vh;
     transition: 0.5s;
   }
 
